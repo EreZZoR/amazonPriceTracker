@@ -1,7 +1,3 @@
-![ Erezzor Logo ](https://imgur.com/a/KaFmbR6)
-
----
-
 # Amazon Price Tracker (Web Scrapper)
 Esta aplicación es capaz de notificarnos cada vez que el producto de Amazon que nos interese esté rebajado. Si quieres empezar a aprender Python, este es un interesante proyecto para ello! 
 [Video del Código](https://www.youtube.com/watch?v=TcEiCMpEynU&t=0s)
@@ -19,3 +15,6 @@ Para que funcione se ha de rellenar el archivo mail.py con tus datos y se ha de 
 
 ## Contributors
 - Roger Rodriguez <roger.rodriguezes@gmail.com>
+
+---
+![ Erezzor Logo ](https://i.imgur.com/SWTy20r.png)
